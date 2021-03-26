@@ -1,0 +1,15 @@
+
+
+name: llnl.caliper
+scm: https://github.com/PhilipDeegan/llnl.caliper
+
+parent: lib
+
+profile:
+- name: inc
+  inc: caliper/include
+
+- name: lib
+  parent: inc
+  src: caliper/src
+
