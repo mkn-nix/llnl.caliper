@@ -3,3 +3,4 @@ include
 lib
 share
 caliper
+.mkn.sh.*

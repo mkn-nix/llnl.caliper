@@ -11,5 +11,5 @@ profile:
 
 - name: lib
   parent: inc
-  src: caliper/src
-
+  path: lib
+  lib: caliper
